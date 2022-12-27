@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'DabinLee',
 
   // open graph metadata (optional)
-  description: 'Dabin's devlog',
+  description: 'Dabin devlog',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
