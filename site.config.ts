@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Dabin's de-vlog',
+  name: 'Dabin's devlog',
   domain: '',
   author: 'DabinLee',
 
   // open graph metadata (optional)
-  description: 'Dabin's de-vlog',
+  description: 'Dabin's devlog',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
@@ -29,7 +29,7 @@ export default siteConfig({
   defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
-`
+
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
 
